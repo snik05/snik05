@@ -1,0 +1,5 @@
+-  Hola mi nombre es Sergio,
+-  Estoy interesado en aprender a programar todo tipo de lenguajes.
+-  Actualmente estudio Microsistemas Informaticos y Redes Locales.
+-  Colaboro como programador de Fronted en LSW-RP.
+-  Puedes contactar conmigo a través de mi correo electrónico: sergiomoroherrero2005@gmail.com.
